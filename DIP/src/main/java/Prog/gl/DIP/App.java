@@ -8,7 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        metier m =  new metier();
-        m.metier();
+        System.out.println( "Hello World!" );
     }
 }
